@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T13:44:48.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 OPR/91.0.4516.72" etag="P6JD4YkZKAuch8qnrLWz" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-20T13:45:09.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 OPR/91.0.4516.72" etag="8PiclTtQD2L0FUkRKdVW" version="20.4.2" type="github">
   <diagram id="FbKItGeIctbUDUOzBeVz" name="Page-1">
     <mxGraphModel dx="1967" dy="1715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -148,10 +148,7 @@
             <mxPoint x="40" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5vOvow6yuVH0ytvlV-aj-60" value="" style="shape=mxgraph.cisco.computers_and_peripherals.pc;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="76" width="78" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="5vOvow6yuVH0ytvlV-aj-63" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="5vOvow6yuVH0ytvlV-aj-60">
+        <mxCell id="5vOvow6yuVH0ytvlV-aj-63" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-31" y="170" as="sourcePoint" />
             <mxPoint x="-31" y="146" as="targetPoint" />
@@ -293,7 +290,7 @@
           <mxGeometry x="192" y="330" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5vOvow6yuVH0ytvlV-aj-116" value="" style="shape=mxgraph.cisco.modems_and_phones.softphone;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-61.5" y="89.5" width="61" height="56" as="geometry" />
+          <mxGeometry x="-61.5" y="92.5" width="61" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
